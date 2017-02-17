@@ -1,0 +1,5 @@
+C:\Users\Patri\OneDrive\CSProjects\ArraysLotto\ArraysLotto\bin\Debug\ArraysLotto.exe.config
+C:\Users\Patri\OneDrive\CSProjects\ArraysLotto\ArraysLotto\bin\Debug\ArraysLotto.exe
+C:\Users\Patri\OneDrive\CSProjects\ArraysLotto\ArraysLotto\bin\Debug\ArraysLotto.pdb
+C:\Users\Patri\OneDrive\CSProjects\ArraysLotto\ArraysLotto\obj\Debug\ArraysLotto.exe
+C:\Users\Patri\OneDrive\CSProjects\ArraysLotto\ArraysLotto\obj\Debug\ArraysLotto.pdb
